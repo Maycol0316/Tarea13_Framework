@@ -1,0 +1,16 @@
+#medios {
+    top: 20px;
+    position: relative;
+}
+#Scrollspy {
+    position: relative;
+    top: 20px;
+}
+#Tabs {
+    position: relative;
+    top: 20px;
+}
+#tooltips {
+    position: relative;
+    top: 50px;
+}
